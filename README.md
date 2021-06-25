@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AminAbedini
-- 👀 I’m interested in Data science, Machine learning and deep learning!
+- 👀 I’m interested in Data Science, Machine Learning and Deep Learning!
 - 🌱 I’m currently learning NLP, 
 - 📫 How to reach me at aminabedini@gmail.com
 
